@@ -1,2 +1,3 @@
-# awesome-list
-Awesome list of everything web!
+# List of Awesome web-awesomeness!
+
+
