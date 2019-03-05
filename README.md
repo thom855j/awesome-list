@@ -10,6 +10,7 @@ A curated list of awesome web-awesomeness.
 
 ### Code editor
 [Sublime theme for netbeans](http://plugins.netbeans.org/plugin/55859/sublime-monokai-theme-for-netbeans-8)
+
 [Sublime php PSR-2 setup](https://medium.com/byteconf/my-sublime-text-setup-for-php-4efe2950e40d)
 
 ### Web
