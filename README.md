@@ -6,6 +6,8 @@ A curated list of awesome web-awesomeness.
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### IDE
+https://www.eclipse.org/pdt/
+
 [Correct PSR-2 formatting for Netbeans IDE (using format)](https://github.com/bobsta63/netbeans-psr-formatting)
 
 ### Code editor
